@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "text": "All"
+    },
+    {
+        "id": 1,
+        "text": "Stars"
+    },
+    {
+        "id": 2,
+        "text": "Galaxies"
+    },
+    {
+        "id": 3,
+        "text": "Moons"
+    },
+    {
+        "id": 4,
+        "text": "Nebulae"
+    }
+]
